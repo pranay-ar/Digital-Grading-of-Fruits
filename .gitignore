@@ -1,0 +1,19 @@
+#images
+*.jpg
+*.png
+
+#documents
+*.pdf
+*.zip
+
+#unecessary folders
+data/test_0
+data/Testin_set
+data/Training_set
+results/
+data_v2/train   
+data_v2/val
+
+#saved model
+*.sav
+
