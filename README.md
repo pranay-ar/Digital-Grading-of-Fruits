@@ -140,4 +140,5 @@ We have also experimented our best performing ResNet34 model with various optimi
 </tbody></table>
 
 The following graph follows the order of Training Accuracy, Validation Accuracy, Validation Loss, Training Loss (clockwise)
+
 ![](media/optimisers.jpg)
