@@ -1,0 +1,6 @@
+python combine_csv.py -f "train/areas"
+python combine_csv.py -f "train/color"
+python combine_csv.py -f "train/shape"
+python combine_csv.py -f "val/areas"
+python combine_csv.py -f "val/color"
+python combine_csv.py -f "val/shape"
